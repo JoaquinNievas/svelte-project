@@ -1,0 +1,20 @@
+* {
+    margin: 0;
+    font-family: averta;
+    font-weight: 400;
+    font-size: 1em;
+}
+
+@font-face {
+    font-family: averta;
+    src: "public/assets/fonts/avenir-next-regular.ttf";
+    font-weight: 400;
+    src: "public/assets/fonts/avenir-next-medium.ttf";
+    font-weight: 500;
+    src: "public/assets/fonts/avenir-next-demi.ttf";
+    font-weight: 600;
+    src: "public/assets/fonts/avenir-next-heavy.otf";
+    font-weight: 700;
+    src: "public/assets/fonts/avenir-next-bold.ttf";
+    font-weight: bold;
+}
